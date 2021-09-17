@@ -40,3 +40,16 @@ p, h1 {
 text-align: center;
 }
 
+.form {
+ display: grid;
+ grid-template-columns: 1fr 2fr 1fr;
+ padding:0px;
+}
+
+input{
+ width:200px;
+}
+select { 
+ width: 200px;
+}
+
